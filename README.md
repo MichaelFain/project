@@ -1,2 +1,2 @@
-# JS-lessons
+# lessons
 Study
