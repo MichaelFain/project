@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83cf9a5-af86-4b8d-88b3-83450f4463f2" name="Changes" comment="" />
+    <list default="true" id="b83cf9a5-af86-4b8d-88b3-83450f4463f2" name="Changes" comment="workplace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +73,16 @@
       <updated>1658326764279</updated>
       <workItem from="1658326765400" duration="1869000" />
       <workItem from="1658328707559" duration="5484000" />
-      <workItem from="1658388422342" duration="15960000" />
+      <workItem from="1658388422342" duration="16280000" />
     </task>
+    <task id="LOCAL-00001" summary="workplace">
+      <created>1658671016114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658671016115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workplace" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
