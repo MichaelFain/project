@@ -41,7 +41,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.script3.js">
+  <component name="RunManager" selected="Node.js.script2.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -70,9 +70,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script2.js" />
         <item itemvalue="Node.js.script3.js" />
         <item itemvalue="Node.js.script.js" />
-        <item itemvalue="Node.js.script2.js" />
         <item itemvalue="Node.js.script1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -104,7 +104,7 @@
       <workItem from="1659352756134" duration="523000" />
       <workItem from="1659353282209" duration="741000" />
       <workItem from="1659354027078" duration="58000" />
-      <workItem from="1659355602609" duration="1020000" />
+      <workItem from="1659355602609" duration="6788000" />
     </task>
     <task id="LOCAL-00001" summary="workplace">
       <created>1658671016114</created>
