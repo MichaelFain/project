@@ -29,35 +29,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/usr/local/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michaelfainberg/.nvm/versions/node/v18.7.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.script3.js">
+}</component>
+  <component name="RunManager" selected="Node.js.script.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" path-to-node="/usr/local/bin/node" nameIsGenerated="true" working-dir="$PROJECT_DIR$/..">
       <method v="2" />
     </configuration>
-    <configuration name="script1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script1.js" working-dir="$PROJECT_DIR$">
+    <configuration name="script1.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.7.0/bin/node" nameIsGenerated="true" path-to-js-file="script1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="script2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="script2.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.7.0/bin/node" nameIsGenerated="true" path-to-js-file="script2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="script3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.7.0/bin/node" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
@@ -70,11 +70,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.script3.js" />
+        <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.script2.js" />
+        <item itemvalue="Node.js.script3.js" />
         <item itemvalue="Node.js.script1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.script.js" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +94,16 @@
       <workItem from="1659291229620" duration="778000" />
       <workItem from="1659292014082" duration="475000" />
       <workItem from="1659292493633" duration="260000" />
-      <workItem from="1659292763852" duration="304000" />
+      <workItem from="1659292763852" duration="1260000" />
+      <workItem from="1659294079026" duration="169000" />
+      <workItem from="1659294254684" duration="75000" />
+      <workItem from="1659294332295" duration="946000" />
+      <workItem from="1659349197780" duration="345000" />
+      <workItem from="1659349657510" duration="2641000" />
+      <workItem from="1659352714517" duration="39000" />
+      <workItem from="1659352756134" duration="523000" />
+      <workItem from="1659353282209" duration="741000" />
+      <workItem from="1659354027078" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="workplace">
       <created>1658671016114</created>
