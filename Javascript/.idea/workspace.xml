@@ -29,23 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/usr/local/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/usr/local/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+}]]></component>
+  <component name="RunManager" selected="Node.js.script3.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" path-to-node="/usr/local/bin/node" nameIsGenerated="true" working-dir="$PROJECT_DIR$/..">
+      <method v="2" />
+    </configuration>
+    <configuration name="script1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="script2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="script3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
@@ -54,10 +63,16 @@
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Node.js.script2.js" />
+      <item itemvalue="Node.js.script3.js" />
+      <item itemvalue="Node.js.script1.js" />
       <item itemvalue="Node.js.script.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script3.js" />
+        <item itemvalue="Node.js.script2.js" />
+        <item itemvalue="Node.js.script1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.script.js" />
       </list>
@@ -73,7 +88,13 @@
       <updated>1658326764279</updated>
       <workItem from="1658326765400" duration="1869000" />
       <workItem from="1658328707559" duration="5484000" />
-      <workItem from="1658388422342" duration="16280000" />
+      <workItem from="1658388422342" duration="19124000" />
+      <workItem from="1658825043750" duration="9811000" />
+      <workItem from="1659289343361" duration="448000" />
+      <workItem from="1659291229620" duration="778000" />
+      <workItem from="1659292014082" duration="475000" />
+      <workItem from="1659292493633" duration="260000" />
+      <workItem from="1659292763852" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="workplace">
       <created>1658671016114</created>
@@ -82,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658671016115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workplace">
+      <created>1658671316020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658671316020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
