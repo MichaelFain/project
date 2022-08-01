@@ -29,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/michaelfainberg/.nvm/versions/node/v18.7.0/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/michaelfainberg/.nvm/versions/node/v18.7.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.script.js">
+}]]></component>
+  <component name="RunManager" selected="Node.js.script3.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -70,9 +70,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script3.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.script2.js" />
-        <item itemvalue="Node.js.script3.js" />
         <item itemvalue="Node.js.script1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -104,6 +104,7 @@
       <workItem from="1659352756134" duration="523000" />
       <workItem from="1659353282209" duration="741000" />
       <workItem from="1659354027078" duration="58000" />
+      <workItem from="1659355602609" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="workplace">
       <created>1658671016114</created>
