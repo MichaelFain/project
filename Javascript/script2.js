@@ -72,13 +72,19 @@
 //     console.log(arrayOfNumbers);
 //     return arrayOfNumbers;
 // }
-function firstTask() {
-    // Значения массива менять нельзя, тут он проверяется автоматически именно на эти значения
-    const arr = [3, 5, 8, 16, 20, 23, 50];
-    const result = [];
-    for (let i = 0; i < arr.length; i++) {
-        result[i] = arr[i];
-    }
-    console.log(result);
-   // return result;
-}
+// function firstTask() {
+//     // Значения массива менять нельзя, тут он проверяется автоматически именно на эти значения
+//     const arr = [3, 5, 8, 16, 20, 23, 50];
+//     const result = [];
+//     for (let i = 0; i < arr.length; i++) {
+//         result[i] = arr[i];
+//     }
+//     console.log(result);
+//    // return result;
+// }
+//
+//
+const lines = 5;
+let result = '';
+// Проверяется именно переменная result, формируйте строку в ней
+
