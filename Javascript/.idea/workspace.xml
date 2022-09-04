@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83cf9a5-af86-4b8d-88b3-83450f4463f2" name="Changes" comment="workplace" />
+    <list default="true" id="b83cf9a5-af86-4b8d-88b3-83450f4463f2" name="Changes" comment="workplace">
+      <change afterPath="$PROJECT_DIR$/script4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script2.js" beforeDir="false" afterPath="$PROJECT_DIR$/script2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +45,11 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/michaelfainberg/.nvm/versions/node/v18.7.0/bin/node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.script3.js">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -54,27 +62,27 @@
     <configuration name="script2.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.7.0/bin/node" nameIsGenerated="true" path-to-js-file="script2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="script3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script3.js" working-dir="$PROJECT_DIR$">
+    <configuration name="script4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script4.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.7.0/bin/node" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Node.js.script4.js" />
       <item itemvalue="Node.js.script2.js" />
-      <item itemvalue="Node.js.script3.js" />
       <item itemvalue="Node.js.script1.js" />
       <item itemvalue="Node.js.script.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.script3.js" />
-        <item itemvalue="Node.js.script2.js" />
-        <item itemvalue="Node.js.script.js" />
-        <item itemvalue="Node.js.script1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.script4.js" />
+        <item itemvalue="Node.js.script1.js" />
+        <item itemvalue="Node.js.script2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +113,13 @@
       <workItem from="1659353282209" duration="741000" />
       <workItem from="1659354027078" duration="58000" />
       <workItem from="1659355602609" duration="9046000" />
-      <workItem from="1659372182001" duration="4222000" />
+      <workItem from="1659372182001" duration="5613000" />
+      <workItem from="1659515790311" duration="1813000" />
+      <workItem from="1659517710749" duration="272000" />
+      <workItem from="1659517990782" duration="40000" />
+      <workItem from="1659518036130" duration="347000" />
+      <workItem from="1659518563033" duration="5194000" />
+      <workItem from="1660749259070" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="workplace">
       <created>1658671016114</created>
